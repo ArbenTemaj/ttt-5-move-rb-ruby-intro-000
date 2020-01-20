@@ -12,6 +12,6 @@ def input_to_index(input)
   converted_input
 end
 
-def move(board, converted_input, default)
+def move(board, converted_input, default_value)
   array_adder(converted_input)
 end
