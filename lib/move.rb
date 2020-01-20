@@ -11,3 +11,7 @@ def input_to_index(input)
   converted_input = input.to_i - 1
   converted_input
 end
+
+def move(converted_input)
+  array_adder(converted_input)
+end
