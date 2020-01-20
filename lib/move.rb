@@ -12,7 +12,7 @@ def input_to_index(input)
   converted_input
 end
 
-def move(board, converted_input, x)
+def move(board, converted_input, 1)
   array_adder(converted_input)
-  x = default
+  1 = x
 end
